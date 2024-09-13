@@ -1,4 +1,4 @@
-<img width="755" alt="image" src="https://github.com/user-attachments/assets/8c072921-41c4-470c-a985-471679b007a9"># Ex.No: 3  Implementation of Kinematic movement seek and flee behaviors 
+# Ex.No: 3  Implementation of Kinematic movement seek and flee behaviors 
 
 ### DATE: 13/09/2024                                                                      
 ### REGISTER NUMBER : 212221240016
