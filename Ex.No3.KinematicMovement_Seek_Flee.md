@@ -111,7 +111,7 @@ while True:
 ```
 
 ### Output:
-<img width="370" alt="3" src="https://github.com/user-attachments/assets/679e03e0-9a99-42be-bc33-c95b00eb15ec">
+![ex4op](https://github.com/user-attachments/assets/14e6b354-43f6-440c-a7c1-6d0b551afe64)
 
 ### Result:
 Thus the simple seek and flee behavior was implemented successfully.
