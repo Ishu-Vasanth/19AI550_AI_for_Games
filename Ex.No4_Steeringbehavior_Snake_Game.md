@@ -108,7 +108,7 @@ if __name__ == "__main__":
 ```
 
 ### Output:
-![ex4op](https://github.com/user-attachments/assets/9602ef7b-bfd0-4386-aa65-2075187a6568)
+![ex3op](https://github.com/user-attachments/assets/9ea20523-23a1-4b08-9fa6-2cf2911068b4)
 
 ### Result:
 Thus the simple snake game was implemented.
