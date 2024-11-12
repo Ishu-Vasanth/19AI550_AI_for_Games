@@ -8,6 +8,14 @@ To write a python program to simulate the Balloon shooter game using pygame
 
 ## Algorithm:
 
+1. Set up Pygame and create a display window.
+2. Define constants like screen width, height, margins, and initialize the score.
+3. Set up Pygame and create a display window.
+4. Define constants like screen width, height, margins, and initialize the score.
+5. In the burst method, check if a mouse click position overlaps with a balloon to "burst" it. If true, increase the score and reset the balloon.
+6. Draw a lower platform to serve as the balloon launching area.
+7. Use showScore to render the current score on the screen.
+
 ## Program:
 ```
 ''' Transfer required libraries '''
