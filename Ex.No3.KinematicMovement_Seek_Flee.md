@@ -1,10 +1,12 @@
 # Ex.No: 3  Implementation of Kinematic movement seek and flee behaviors 
-### DATE: 20.08.2024                                                                          
+
+### DATE: 16.08.2024                                                                          
 ### REGISTER NUMBER : 212221240016
-### AIM: 
+
+## AIM: 
 To write a python program to simulate the process of seek and flee behaviors using mouse movements.
 
-### Algorithm:
+## Algorithm:
 1. Import the necessary modules pygame, math, random when necessary.
 2. Initiate the pygame engine
 3. Create a window with size (400,300)
@@ -17,7 +19,7 @@ To write a python program to simulate the process of seek and flee behaviors usi
 10. Close the pygame window when quit icon is clicked.
 11. Stop the program
     
-### Program:
+## Program:
 ```
 import pygame
 import sys
@@ -110,8 +112,8 @@ while True:
     clock.tick(FPS)
 ```
 
-### Output:
+## Output:
 ![ex4op](https://github.com/user-attachments/assets/14e6b354-43f6-440c-a7c1-6d0b551afe64)
 
-### Result:
+## Result:
 Thus the simple seek and flee behavior was implemented successfully.
